@@ -8,9 +8,5 @@
     "name": "Matterless",
     "email": "andreas@matterless.com",
     "url": "https://www.matterless.com"
-  },
-  "files": [
-    "package.json.meta",
-    "Runtime*"
-  ]
+  }
 }
