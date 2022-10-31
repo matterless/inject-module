@@ -1,0 +1,12 @@
+{
+  "name": "com.matterless.module.inject",
+  "version": "1.0.0",
+  "displayName": "Matterless Inject Module",
+  "description": "Inject Module for Matterless.",
+  "unity": "2019.1",
+  "author": {
+    "name": "Matterless",
+    "email": "andreas@matterless.com",
+    "url": "https://www.matterless.com"
+  }
+}
